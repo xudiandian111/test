@@ -1,0 +1,9 @@
+# Define the goal
+int64 aim_num  
+# Specify which dishwasher we want to use
+---
+# Define the result
+bool result_back_home
+---
+# Define a feedback message 
+float64 percent_complete
